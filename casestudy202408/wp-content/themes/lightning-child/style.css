@@ -1,0 +1,18 @@
+/*
+Theme Name: Lightning Child
+Theme URI: 
+Template: lightning
+Description: 
+Author: 
+Tags: 
+Version: 0.6.0
+*/
+
+.pc-none{
+  display: none;
+}
+@media screen and (max-width: 768px) {
+  .pc-none{
+    display: inline-block;
+  }
+}
